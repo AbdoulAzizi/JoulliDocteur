@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Joulli Docteur</string>
+    <string name="soignersapriere">Soigner sa prière</string>
+    <string name="questionnaire">Evaluer \n ses connaissances</string>
+    <string name="annimations">La prière \n en animations</string>
+    <string name="guide">Télécharger \n votre guide</string>
+    <string name="nospages">Nos pages</string>
+    <string name="apropos">A propos</string>
+</resources>
